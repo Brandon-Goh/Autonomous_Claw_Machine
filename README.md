@@ -1,7 +1,7 @@
 # Autonomous Claw Machine
 ![Left to right: Jordan, Masih, Sam, Brandon](https://github.com/Brandon-Goh/Autonomous_Claw_Machine/blob/main/claw_machine.jpg)
-Developed an autonomous claw machine that retrieves objects based off of colour through the implementation of mechatronics principles. Achieved a **90% retrieval rate** through the design and construction of an autonomous claw machine using SOLIDWORKS, EV3 Robot and 3D printed components. Programmed in RobotC.
 
+Developed an autonomous claw machine that retrieves objects based off of colour through the implementation of mechatronics principles. Achieved a **90% retrieval rate** through the design and construction of an autonomous claw machine using SOLIDWORKS, EV3 Robot and 3D printed components. Programmed in RobotC.
 
 ## What I did:
 
@@ -9,10 +9,8 @@ Developed an autonomous claw machine that retrieves objects based off of colour 
  
  - Implemented 10+ unit tests to handle unexpected input from the user and other unexpected errors
 
-
 ## Full Report:
 https://brandongoh.me/static/img/claw.pdf
-
 
 ## Created by:
 
