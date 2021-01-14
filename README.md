@@ -5,8 +5,10 @@ Developed an autonomous claw machine that retrieves objects based off of colour 
 
 ## What I did:
 
-• Developed the user-interface and autonomous functionalities such as scanning, pick up and drop off using RobotC
-• Implemented 10+ unit tests to handle unexpected input from the user and other unexpected errors
+ - Developed the user-interface and autonomous functionalities such as scanning, pick up and drop off using RobotC
+ 
+ - Implemented 10+ unit tests to handle unexpected input from the user and other unexpected errors
+
 
 ## Full Report:
 https://brandongoh.me/static/img/claw.pdf
