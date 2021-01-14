@@ -14,12 +14,10 @@ Overall, a project used to practice the design and implementation of a Mechatron
 
 Huge thanks to the members involved:
 
-Brandon Goh: 
-  - Github: https://github.com/GohBig 
-  - Linkedin: https://www.linkedin.com/in/brandon-goh/
+Jordan Chow: 
+  - Linkedin: https://www.linkedin.com/in/jordanchow905/ 
   
 Sam Eskandar: 
-  - Github: https://github.com/s6eskand
   - Linkedin: https://www.linkedin.com/in/sameskandar/
   
 Masih Bouriayee: 
