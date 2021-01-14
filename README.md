@@ -1,24 +1,27 @@
-Given a group of 4, this is the project we came up with when designing our Mechatronic System.
+# Autonomous Claw Machine
 
-I present: The Autonomous Claw Machine!
+Developed an autonomous claw machine that retrieves objects based off of colour through the implementation of mechatronics principles. Achieved a **90% retrieval rate** through the design and construction of an autonomous claw machine using SOLIDWORKS, EV3 Robot and 3D printed components. Programmed in RobotC.
 
-The project was made to have two modes, Autonomous retrieval and racing mode.
 
-Racing mode gives the user the chance to control the physical system and retrieve the object they have specified from earlier. Their retrieval will be timed and will be checked against the robot.
-After they have finished, they will return the object to its original location, the robot will reset, then use the same algorithm as Autonomous mode to retrieve the object.
-If the user has a better time, they will be rewarded with an encouraging message by the system. If not, well, they lost, the robot is free to gloat as it pleases.
+## What I did:
 
-Autonomous mode simply prompts the user for a colour, then finds the colour. It will prompt the user to play again until it retrieves all the objects within its bounds.
+• Developed the user-interface and autonomous functionalities such as scanning, pick up and drop off using RobotC
+• Implemented 10+ unit tests to handle unexpected input from the user and other unexpected errors
 
-Overall, a project used to practice the design and implementation of a Mechatronic System, uses RobotC (a C based functional programming language)
+## Full Report:
+https://brandongoh.me/static/img/claw.pdf
 
-Huge thanks to the members involved:
 
-Jordan Chow: 
-  - Linkedin: https://www.linkedin.com/in/jordanchow905/ 
-  
-Sam Eskandar: 
-  - Linkedin: https://www.linkedin.com/in/sameskandar/
-  
-Masih Bouriayee: 
-  - Linkedin: https://www.linkedin.com/in/masih-b-7b8b39127/
+## Created by:
+
+Jordan Chow:
+
+- Linkedin: https://www.linkedin.com/in/jordanchow905/
+
+Sam Eskandar:
+
+- Linkedin: https://www.linkedin.com/in/sameskandar/
+
+Masih Bouriayee:
+
+- Linkedin: https://www.linkedin.com/in/masih-b-7b8b39127/
