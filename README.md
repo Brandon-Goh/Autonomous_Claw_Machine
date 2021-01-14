@@ -16,6 +16,10 @@ https://brandongoh.me/static/img/claw.pdf
 
 ## Created by:
 
+Brandon Goh:
+
+- Linkedin: https://www.linkedin.com/in/brandon-goh/
+
 Jordan Chow:
 
 - Linkedin: https://www.linkedin.com/in/jordanchow905/
